@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Rajiniram49
+- 👋 Hi, I’m R.T.Ram Kumar
 - 👀 I’m interested in python,C,Java programming languages
-- 🌱 I’m currently learning pthon and C
-- 💞️ I’m looking to collaborate on Python
 - 📫 How to reach me rajiniram49@gmail.com
 
 <!---
